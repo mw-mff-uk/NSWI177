@@ -1,1 +1,1 @@
-NSWI177 Úvod do Linuxu
+# NSWI177 Úvod do Linuxu
